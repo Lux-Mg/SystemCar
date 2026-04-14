@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+env/
+
+# YOLO models (too large for GitHub)
+*.pt
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Test videos
+test_videos/
+*.mp4
+*.avi
+*.mov
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credentials & sensitive
+*login*.txt
+*password*
+*.env
+
+# PHP / CodeIgniter
+systemcar/application/logs/*
+!systemcar/application/logs/index.html
+systemcar/application/cache/*
+!systemcar/application/cache/index.html
+
+# Build / dist
+dist/
+build/

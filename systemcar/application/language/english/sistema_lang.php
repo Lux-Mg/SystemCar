@@ -1,0 +1,19 @@
+<?php
+$lang['no_permission_system_menu'] = 'You do not have permission to access this SYSTEM menu, only Admin!';
+$lang['corporate_name'] = 'Corporate Name';
+$lang['trade_name'] = 'Trade Name';
+$lang['cnpj'] = 'CNPJ';
+$lang['state_registration'] = 'State Registration';
+$lang['landline'] = 'Landline';
+$lang['mobile_phone'] = 'Mobile Phone';
+$lang['zip_code'] = 'ZIP Code';
+$lang['address'] = 'Address';
+$lang['number'] = 'Number';
+$lang['city'] = 'City';
+$lang['state'] = 'State';
+$lang['site_url'] = 'Site URL';
+$lang['contact_email'] = 'Contact Email';
+$lang['ticket_text'] = 'Ticket Text';
+$lang['data_saved_successfully'] = 'Data saved successfully';
+$lang['edit_system_info'] = 'Edit system information';
+$lang['edit_system_info_subtitle'] = 'It\'s time to edit the system information';
