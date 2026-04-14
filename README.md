@@ -68,10 +68,4 @@ python main.py
 - YOLOv11 model accuracy: **95%** on test videos
 - CUDA acceleration reduced video processing time by **40%**
 
-## Author
 
-Luis Mendoza Goikochea — Software Engineering student at Siberian Federal University.
-
-## License
-
-MIT
